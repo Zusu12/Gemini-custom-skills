@@ -51,4 +51,4 @@ Copy the skill folder(s) into your global Gemini config directory:
     │   └── templates.md
     └── references/
         └── database-schemas.md
-```
+``~~
