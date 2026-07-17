@@ -14,6 +14,11 @@ A comprehensive guidelines-and-examples skill for building full-stack web applic
 - **Key Features**: Standardized component creation guidelines, pre-designed templates, database schemas, and UX/UI design patterns.
 - **Use Cases**: Quickly bootstrapping, structuring, and style-polishing web applications.
 
+### 3. [YouTube Notes](./youtube-notes)
+A skill that creates structured, high-quality notes from any YouTube video. It extracts video content via transcript API or browser fallback, generates polished Markdown notes, and converts them to PDF after user approval.
+- **Key Features**: 7 note styles (Detailed, Short, Summarized, Cornell Method, Mind Map, Bullet Points, Q&A Format), clickable timestamps, auto-generated glossary, flashcards, table of contents, and PDF export via Pandoc or Python fallback.
+- **Use Cases**: Taking lecture notes, summarizing tutorials, creating study material, and generating quick-reference documents from video content.
+
 ---
 
 ## How to Install and Use
@@ -44,11 +49,13 @@ Copy the skill folder(s) into your global Gemini config directory:
 ├── README.md
 ├── research-harvester/
 │   └── SKILL.md
-└── web-app-builder/
-    ├── SKILL.md
-    ├── examples/
-    │   ├── components.md
-    │   └── templates.md
-    └── references/
-        └── database-schemas.md
-``~~
+├── web-app-builder/
+│   ├── SKILL.md
+│   ├── examples/
+│   │   ├── components.md
+│   │   └── templates.md
+│   └── references/
+│       └── database-schemas.md
+└── youtube-notes/
+    └── SKILL.md
+```
