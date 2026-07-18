@@ -3,7 +3,6 @@
 This repository contains a collection of custom skills created for the Gemini AI Coding Assistant (**Antigravity**). These skills extend the AI's capabilities, allowing it to automate specific workflows and follow repository-specific best practices.
 
 ## Skills Included
-
 ### 1. [Research Harvester (Web Scrapper)](./research-harvester)
 A skill designed to fetch, extract, and clean web content from multiple public websites based on a user-provided topic or keyword query.
 - **Key Features**: Auto-search using Google search, parallel fetching, cleaning HTML to Markdown, error handling/retry logic, and generation of a consolidated Markdown research report.
