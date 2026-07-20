@@ -5,7 +5,7 @@ This repository contains a collection of custom skills created for the Gemini AI
 ## Skills Included
 ### 1. [Research Harvester (Web Scrapper)](./research-harvester)
 A skill designed to fetch, extract, and clean web content from multiple public websites based on a user-provided topic or keyword query.
-- **Key Features**: Auto-search using Google search, parallel fetching, cleaning HTML to Markdown, error handling/retry logic, and generation of a consolidated Markdown research report.
+- **Key Features**: Auto-search using Google search, parallel fetching, cleaning HTML to Markdown, error handling/retry logic, and generation of a consolidated Markdown research report which can be coverted into pdf using online tools.
 - **Use Cases**: Gathering research data, monitoring articles on a subject, and saving offline reference documents.
 
 ### 2. [Web App Builder](./web-app-builder)
